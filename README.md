@@ -32,6 +32,7 @@ financial_analyzer/
 │   └── subcategories.csv   # CSV file for managing subcategories dynamically
 │
 ├── README.md               # This file, providing an overview of the project
+├── LICENSE                 # This file is for license
 └── requirements.txt        # List of Python packages required by the project
 ```
 

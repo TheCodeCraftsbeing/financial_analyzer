@@ -28,7 +28,6 @@ financial_analyzer/
 │
 ├── data/
 │   ├── transactions.csv    # Sample CSV file for storing financial transactions
-│   ├── categories.csv      # CSV file for managing categories and subcategories
 │   └── subcategories.csv   # CSV file for managing subcategories dynamically
 │
 ├── README.md               # This file, providing an overview of the project
